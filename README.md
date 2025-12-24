@@ -4,6 +4,8 @@ Image preprocessing pipeline using CLAHE (Contrast Limited Adaptive Histogram Eq
 
 ---
 
+![Comparison](output/test_comparison.jpg)
+
 **Technologies:** Python, OpenCV, CLAHE  
 **Use Cases:** Underwater robotics, marine biology, offshore inspection, autonomous vehicles
 
